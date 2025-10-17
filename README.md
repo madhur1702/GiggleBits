@@ -61,10 +61,6 @@ Open a Pull Request 🚀
 🌍 Multi-language jokes
 
 🔊 Custom voice presets
-
-📜 License
-
-This project is licensed under the MIT License
 .
 
 💡 Acknowledgements
